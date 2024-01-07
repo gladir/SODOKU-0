@@ -1,6 +1,6 @@
 { @author: Sylvain Maltais (support@gladir.com)
   @created: 2023
-  @website(https://www.gladir.com/vie)
+  @website(https://www.gladir.com/sodoku-0)
   @abstract(Target: Turbo Pascal 7, Free Pascal 3.2)
 }
 
