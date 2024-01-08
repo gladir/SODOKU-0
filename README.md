@@ -1,5 +1,5 @@
 # SODOKU-0
-Jeu japonais Sodoku écrit en Turbo Pascal
+Jeu japonais Sodoku écrit en Turbo Pascal ou Free Pascal
 
 <h3>Liste des fichiers</h3>
 
